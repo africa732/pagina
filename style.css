@@ -1,0 +1,39 @@
+body{
+
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FFF0F3;
+}
+.card{
+    margin-left: 550px;
+    margin-right: 50px;
+
+}
+.carousel-slide{
+
+    margin-left: 500px;
+    margin-right: 50px;
+
+}
+.carousel-inner{
+    size: 400px;
+    margin-left: 440px;
+    margin-top: 20px;
+
+
+}
+footer{
+    text-align: center;
+}
+.jumbotron{
+    text-align: center;
+
+
+
+}
+.btn btn-primary{
+    position: center;
+
+
+
+}
